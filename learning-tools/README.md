@@ -64,7 +64,10 @@
 ### Some topics that you can learn:
 - Algorithms
 - Data Structure
-- Machine Learning
+- Artificial Intelligence
+- Distributed Systems
+- Linux
+- Functional Programming
 
 ### Main Features:
 - This platform is focused on programming chanllenges. Basically you can solve problems in the language of your choice.
