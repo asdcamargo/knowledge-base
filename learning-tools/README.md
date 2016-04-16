@@ -4,6 +4,7 @@
 ### 1) [Free Code Camp](#freecodecamp)
 ### 2) [Code Academy](#codeacademy)
 ### 3) [Coursera](#coursera)
+### 3) [Hacker Rank](#hackerank)
 
 ### 1) <a name="freecodecamp">Free Code Camp - https://www.freecodecamp.com</a>
 ### Some topics that you can learn:
@@ -58,4 +59,16 @@
 - Discussion forum where both teachers and students can engage to discuss the course.
 - Self-signed certificate by the university if you pay to take the course.
 - Pretty reasonable price for the courses.
- 
+
+### 4) <a name="hackerrank">Hacker Rank - https://www.hackerrank.com</a>
+### Some topics that you can learn:
+- Algorithms
+- Data Structure
+- Machine Learning
+
+### Main Features:
+- This platform is focused on programming chanllenges. Basically you can solve problems in the language of your choice.
+- Good code environment where you can code directly on the browser with some cool typing features.
+- Different level of challenges from easy to hard.
+- Contests where you can compete on code challenges with other developers.
+
