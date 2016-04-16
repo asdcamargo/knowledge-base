@@ -6,7 +6,7 @@
 ### 3) [Coursera](#coursera)
 ### 4) [Hacker Rank](#hackerrank)
 
-### 1) <a name="freecodecamp">Free Code Camp - https://www.freecodecamp.com</a>
+### - <a name="freecodecamp">Free Code Camp - https://www.freecodecamp.com</a>
 ### Some topics that you can learn:
 - Javascript
 - Algorithms
@@ -25,7 +25,7 @@
 - Also they have a set of personal projects where you have to go on your own to build real applications. 
 - At the end of the course you can engage on real non-profit projects which gives the experience of working on real projects.
 
-### 2) <a name="codeacademy">Code Academy - https://www.codecademy.com</a>
+### - <a name="codeacademy">Code Academy - https://www.codecademy.com</a>
 ### Some topics that you can learn:
 - Javascript
 - Ruby
@@ -43,7 +43,7 @@
 - Well defined levels of difficulty.
 - Large amount of different topics to learn.
 
-### 3) <a name="coursera">Coursera - https://www.coursera.org/</a>
+### - <a name="coursera">Coursera - https://www.coursera.org/</a>
 ### Some topics that you can learn:
 - Big Data
 - Android programmin
@@ -60,7 +60,7 @@
 - Self-signed certificate by the university if you pay to take the course.
 - Pretty reasonable price for the courses.
 
-### 4) <a name="hackerrank">Hacker Rank - https://www.hackerrank.com</a>
+### - <a name="hackerrank">Hacker Rank - https://www.hackerrank.com</a>
 ### Some topics that you can learn:
 - Algorithms
 - Data Structure
