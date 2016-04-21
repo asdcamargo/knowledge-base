@@ -7,4 +7,6 @@
 * 1) [Learning Tools] (learning-tools.md) - Platform to learn and practice computer science related topics
 * 2) [Microservices] (microservices.md) - Content about this application architecture
 * 3) [Urban Code Deployment] (urbancode.md) - Tool to automate application deployment
+* 4) [Regex Builder] (http://regexr.com/) - Build and test regex expressions
+* 5) [Cron Maker] (http://www.cronmaker.com/) - Build and test cron expressions
 
