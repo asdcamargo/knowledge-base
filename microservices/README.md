@@ -11,6 +11,14 @@
 
 * Netflix - https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices
 
+## Framework for Performance Test Specification
+
+* This is a project that I created as an alternative to improve the performance test execution on Microservices.
+* The main idea is to wrap in the service the test specification (the parameters that will be used to send a request to the service) along with some validation data that is used to validate the service response. This specification is kept under the same URI that the service use to provide the operation and its returned when the client sends an OPTIONS request. 
+* With this approach we can keep the test specification up to date with new changes in the service and the test client can obtain the specification in an automated way. 
+* This framework is specially useful for application with some dozens of microservices, in this scenario, keep each service specification consistent is a hard task. After each new change you will need to change the test client to keep the consistency with the service.
+* For more information please refer to: https://github.com/asdcamargo/fpts
+
 ## Some References
 
 * http://martinfowler.com/articles/microservices.html
