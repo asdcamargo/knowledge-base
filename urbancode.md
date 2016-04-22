@@ -13,7 +13,7 @@ For example: 1) Download files from repository. 2) Remove the content in /web di
 
 -Application Processes: Steps that involves the components proccesses which will be performed in other to make the application deployment. 
 
--Plugins: are designed to help in the deployment process of components. For example, tomcat plugin come with several tasks: start and stop.
+-Plugins: are designed to help in the deployment process of components. For example, tomcat plugin come with several tasks such as start and stop.
 
 ## How these concepts relate to each other:
 
