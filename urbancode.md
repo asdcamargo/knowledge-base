@@ -21,6 +21,11 @@ For example: 1) Download files from repository. 2) Remove the content in /web di
 - Environments gather multiple resources around a single concept which refers to the stage where the application is: DEVELOPMENT, TEST, PRE PRODUCTION, PRODUCTION and others.
 - The resource is where the agent lives and where the components are deployed to.
 
+## Agents states: The state can be view in the agent tab on the UCD UI
+- Online: UCD agent is able to connect and read the response from the server.
+- Connected: UCD agent is able to connect with the UCD server, however the response from the server is not getting to the agent.
+- Offline: UCD agent is not reaching the server. Need to check if the connection port (usually JMX port: 7918) is open on the server.
+
 ## Useful links:
 * Basic concepts: https://www.youtube.com/watch?v=oVv6a8mUwXo
 * Official site: https://developer.ibm.com/urbancode/products/urbancode-deploy/
