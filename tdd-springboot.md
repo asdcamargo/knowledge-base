@@ -1,6 +1,6 @@
 ## Applying TDD with Spring Boot REST Services
 ### The basic of TDD is to write the test first, then we implement the feature so it can pass the test, the second step is reapeated until we have an implementation that passes the test. After that, we can consider that the feature is implemented correctly (if you write the test with a good coverage of the feature)
-### Wrapping the rest service around tests will ensure that the service complies with the requirements and also will give more reliability to insert new changes. 
+### Wrapping the REST service around tests will ensure that the service complies with the requirements and also will give more reliability to insert new changes. 
 
 #### Spring boot provides some outstanding features to help with this task.
 #### 1) First thing to do is to add the following dependency to you pom.xml (make sure you use test scope to avoid using unecessary dependencies on the final build).
