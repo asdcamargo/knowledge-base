@@ -56,16 +56,16 @@ however it will be good to place the test object, the insert operation, and othe
 #### 5) As a last step it is good to include the test cycle in the maven build process. This will guarantee that the build will be a success if we pass all tests. For that, include the following plugin on the project's pom.xml file.
 To execute the test verification run maven with the 'verify' goal: mvn verify
 ```
-  <plugin>
-				<artifactId>maven-failsafe-plugin</artifactId>
-				<executions>
-					<execution>
-						<goals>
-							<goal>integration-test</goal>
-							<goal>verify</goal>
-						</goals>
-					</execution>
-				</executions>
+  	<plugin>
+	<artifactId>maven-failsafe-plugin</artifactId>
+		<executions>
+			<execution>
+				<goals>
+					<goal>integration-test</goal>
+					<goal>verify</goal>
+				</goals>
+			</execution>
+		</executions>
 	</plugin>
 ```
 #### With this config you can run any test in a box, just do a regular Run as -> JUnit Test. Spring will start your service automatically before it start the tests. And the server will be shut down once the tests finish.
