@@ -26,8 +26,7 @@ public class JournalServiceTest
   You can also create a new application.properties for testing. Be aware that in this case if you make changes to the main application.properties you will need to update the test application.properties file. 
   - The third annotation (@WebIntegrationTest) will let spring run the REST service before it executes the tests. This is good as we want to execute the tests on the real server. Also, this annotation let you inject a repository or any bean using @Autowired.
 
-#### 4) Now you can write the test, lets us say that we want to test a POST to the REST service. For the sake of this example I placed all code in the same method, 
-however it will be good to place the test object, the insert operation, and other values in variables/methods so it can be reused thru the other tests.
+#### 4) Now you can write the test, lets us say that we want to test a POST to the REST service. For the sake of this example I placed all code in the same method, however it will be good to place the test object, the insert operation, and other values in variables/methods so it can be reused thru the other tests.
 
 ```
   @Test
