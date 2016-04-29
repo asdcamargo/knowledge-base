@@ -7,7 +7,7 @@
 
 ### Characteristics and Challenges
 - Volume: Vast amount of data, generate in a shor amount of time: seconds, minutes, hours or days.
-- Variety: Differents forms tha data can come: text, images, geospacial, etc.
+- Variety: Differents forms tha data can come: text, images, geospacial, etc. Refers to the heterogenity of data. Insert more complexity due to more kinds of data.
 - Velocity: Speed that data is generated.
 - Veracity: Refers to the uncertainty of data. 
 - Valence: Connections of data in the form of graphs.
