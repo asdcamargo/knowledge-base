@@ -15,7 +15,7 @@ For example: 1) Download files from repository. 2) Remove the content in /web di
 
 -Plugins: are designed to help in the deployment process of components. For example, tomcat plugin come with several tasks such as start and stop.
 
-## How these concepts relate to each other:
+## How these concepts are related to each other:
 
 - Components are organized to deploy the application.
 - Environments gather multiple resources around a single concept which refers to the stage where the application is: DEVELOPMENT, TEST, PRE PRODUCTION, PRODUCTION and others.
