@@ -61,7 +61,7 @@ public class JournalServiceTest
 		assertThat(returned.getBody().getId(), IsNot.not(IsEmptyString.isEmptyOrNullString()));
 	}
 ```
-##### 5) As a last step it is good to include the test cycle in the maven build process. This will guarantee that the build will be a success if we pass all tests. For that, include the following plugin on the project's pom.xml file.
+##### 5) As a last step it is good to include the test cycle in the maven build process. This will guarantee that the build will be a success if it passes all tests. For that, include the following plugin on the project's pom.xml file.
 To execute the test verification run maven with the 'verify' goal: mvn verify
 ```
   	<plugin>
