@@ -21,3 +21,10 @@
 - Allow to extract more valuable information.
 - Give more assurance to the bussiness decisions based on reliability taken from the data integration.
 - Gives more assurance to the business decisions based on reliability of the data integration. 
+
+## Data Science - Steps
+- Acquire: Identify data sets, retrieve data, query data. 
+- Prepare: Explore data: look at the data to understand its quality and format. Pre-process data: clean data, integrate and package.
+- Analyze: Selection of analytical techniques to use and build models. This step require multiple iterations.
+- Report: Present the results in a visual way.
+- Act: Report the insights from the analysis and define the actions based on the insghts found. 
