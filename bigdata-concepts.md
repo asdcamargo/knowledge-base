@@ -22,9 +22,17 @@
 - Give more assurance to the bussiness decisions based on reliability taken from the data integration.
 - Gives more assurance to the business decisions based on reliability of the data integration. 
 
-## Data Science - Steps
+## Data Science - Extract Knowledge from Data
+### Steps in Data Sciense Process 
 - Acquire: Identify data sets, retrieve data, query data. 
 - Prepare: Explore data: look at the data to understand its quality and format. Pre-process data: clean data, integrate and package.
 - Analyze: Selection of analytical techniques to use and build models. This step require multiple iterations.
 - Report: Present the results in a visual way.
 - Act: Report the insights from the analysis and define the actions based on the insghts found. 
+
+### Categories of Analysis Techniques
+- Classification: Predict a category of the input data, e.g. classify the weather as sunny, windy, rainy, etc. 
+- Regression: Predict a numeric value, e.g. predict the price of a stock. 
+- Clustering: Organize similar items into groups, e.g. group a company customer in groups like seniors, adults, teenagers. 
+- Association Analysis: Find rules to capture associations between items, determine when items or events occur togheter, e.g. market basket analysis is used to understand customer purchase behavior, which products are bought together.
+- Graph Analytics: Use graph structures to find connections between entities, e.g. explore the spread of a disease, identification of security threats. 
